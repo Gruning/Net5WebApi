@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MFENiIUwuavHxzzRQpcLaFLDu9vUl97hRsB/ex1Q3j+e1dXAtIwHwuhMmdQ0WjZhAScRVkGCLDch5bctdEpWZA==",
+  "dgSpecHash": "KiR0ymNhiA1DpYwI9+pc7CPNKIJpW1RPVVhMesovkk3gHki1m7DI+5e2InAYP/lT9tfaVRwg5gsQKiIv8TTURw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alber\\source\\repos\\Net5WebApi\\Net5WebApi.csproj",
+  "projectFilePath": "/home/kimono/source/repos/Net5WebApi/Net5WebApi.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
