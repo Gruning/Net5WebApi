@@ -1,0 +1,4 @@
+using Microsoft.AspNetCore.Mvc;
+namespace Net5WebApi.Controllers{
+    public class SnippetsController: ControllerBase
+}
