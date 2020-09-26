@@ -1,4 +1,21 @@
+using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
-namespace Net5WebApi.Controllers{
+using Net5WebApi.Models;
+namespace Net5WebApi.Controllers
+{
+    [Route("api/[controller]")]
+    [ApiController]
     public class SnippetsController: ControllerBase
+    {
+        [HttpGet]
+        public ActionResult<IEnumerable<Snippet>> GetAllSnippets()
+        {
+
+        }
+        [HttpGet]
+        public ActionResult<Snippet> GetSnippetsById( int id)
+        {
+            
+        }
+    }
 }
