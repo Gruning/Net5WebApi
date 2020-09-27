@@ -1,8 +1,28 @@
 {
   "version": 2,
-  "dgSpecHash": "MFENiIUwuavHxzzRQpcLaFLDu9vUl97hRsB/ex1Q3j+e1dXAtIwHwuhMmdQ0WjZhAScRVkGCLDch5bctdEpWZA==",
+  "dgSpecHash": "z0eSXJR7BUj22UiCJybR2tHVVbRZZW/QomDSXp0O/bjmyWxsLT+TUM549Oe1tETgeW1tDe3/KLPXUrds1l9FIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\alber\\source\\repos\\Net5WebApi\\Net5WebApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\alber\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0-rc.1.20451.13\\microsoft.entityframeworkcore.5.0.0-rc.1.20451.13.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0-rc.1.20451.13\\microsoft.entityframeworkcore.abstractions.5.0.0-rc.1.20451.13.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.0-rc.1.20451.13\\microsoft.entityframeworkcore.analyzers.5.0.0-rc.1.20451.13.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.0-rc.1.20451.13\\microsoft.entityframeworkcore.design.5.0.0-rc.1.20451.13.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.0-rc.1.20451.13\\microsoft.entityframeworkcore.relational.5.0.0-rc.1.20451.13.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0-rc.1.20451.14\\microsoft.extensions.caching.abstractions.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0-rc.1.20451.14\\microsoft.extensions.caching.memory.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0-rc.1.20451.14\\microsoft.extensions.configuration.abstractions.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-rc.1.20451.14\\microsoft.extensions.dependencyinjection.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-rc.1.20451.14\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0-rc.1.20451.14\\microsoft.extensions.logging.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0-rc.1.20451.14\\microsoft.extensions.logging.abstractions.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.extensions.options\\5.0.0-rc.1.20451.14\\microsoft.extensions.options.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-rc.1.20451.14\\microsoft.extensions.primitives.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\system.collections.immutable\\5.0.0-rc.1.20451.14\\system.collections.immutable.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-rc.1.20451.14\\system.componentmodel.annotations.5.0.0-rc.1.20451.14.nupkg.sha512",
+    "C:\\Users\\alber\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0-rc.1.20451.14\\system.diagnostics.diagnosticsource.5.0.0-rc.1.20451.14.nupkg.sha512"
+  ],
   "logs": []
 }
