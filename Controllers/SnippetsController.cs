@@ -8,6 +8,12 @@ namespace Net5WebApi.Controllers
     [ApiController]
     public class SnippetsController: ControllerBase
     {
+        //private readonly ISnippetRepository _repository;
+        // public SnippetsController(ISnippetRepository repository)
+        // {
+        //     _repository = repository;
+        // }
+
         private readonly MockSnippetRepo _repository = new MockSnippetRepo();
         [HttpGet]
         public ActionResult<IEnumerable<Snippet>> GetAllSnippets()
